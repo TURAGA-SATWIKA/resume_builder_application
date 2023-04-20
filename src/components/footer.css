@@ -1,0 +1,8 @@
+.foot{
+        background-color: orange;
+        height: 30px;
+        width: 100%;
+      font-size: 20px;
+      position: fixed;
+    bottom: 0;
+}

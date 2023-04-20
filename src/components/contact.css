@@ -1,0 +1,19 @@
+.signin_contact{
+    width: 500px;
+    height: 320px;
+    border: 2px solid black;
+    margin-top: 150px;
+    margin-left: 550px;
+}
+
+
+.signin_contact h2{
+    margin-left: 180px;
+}
+.signin_contact form{
+    margin-top: 30px;
+    margin-left: 60px;
+}
+textarea{
+    margin-right: 50px;
+}

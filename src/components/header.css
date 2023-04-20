@@ -1,0 +1,24 @@
+.head{
+    background-color:orange;
+    height: 50px;
+  font-size: 20px;
+}
+
+.head h4{
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+ ul li{
+    list-style-type: none;
+    float: left;
+}
+.buttons {
+    margin-top: -10px;
+    float: right;
+    
+}
+
+.buttons li{
+    margin-right: 10px;
+}
